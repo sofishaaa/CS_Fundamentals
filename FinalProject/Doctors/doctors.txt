@@ -1,0 +1,16 @@
+Oleg - male - 36 - neurologist - 8 - 3000 - 0
+Olya - female - 40 - pediatrician - 15 - 4500 - 1204
+Sofiia - female - 42 - surgeon - 17 - 5200 - 1003
+Vlad - male - 37 - surgeon - 9 - 4900 - 991
+Iryna - female - 45 - cardiologist - 17 - 5100 - 0
+Nataliia - female - 32 - neurologist - 5 - 1800 - 0
+Ostap - male - 29 - neurologist - 2 - 3050 - 0
+Sergo - male - 40 - cardiologist - 12 - 3600 - 0
+Jesica - female - 30 - pediatrician - 5 - 3500 - 1220
+Andriy - male - 28 - pediatrician - 2 - 1800 - 578
+Ivan - male - 35 - neurologist - 8 - 2200 - 0
+Ivanka - female - 49 - pediatrician - 24 - 5300 - 1900
+Igor - male - 30 - pediatrician - 4 - 4300 - 1001
+Anna - female - 48 - surgeon - 21 - 6700 - 991
+Jon - male - 41 - neurologist - 5 - 3200 - 0
+Andrew - male - 49 - surgeon - 22 - 7000 - 1500
